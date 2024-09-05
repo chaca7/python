@@ -1,0 +1,13 @@
+body{
+    font-family: sans-serif;
+}
+h1{
+    background-color: beige;
+    color: purple;
+}
+
+.estilo-parrafo{
+    font-family:Verdana, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
